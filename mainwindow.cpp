@@ -6,7 +6,7 @@
 #include <QTime>
 #include <QIODevice>
 #include <QFile>
-
+//kek
 
 MainWindow::MainWindow(QWidget *parent) :
     QMainWindow(parent),
